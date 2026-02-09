@@ -1,0 +1,12 @@
+2026-02-09 02:31:18,180 — INFO — \U0001f680 Iniciando pipeline Airbnb
+2026-02-09 02:31:18,193 — INFO — Extract completado — filas: 1829
+2026-02-09 02:31:18,201 — INFO — Validación completada
+2026-02-09 02:31:18,226 — INFO — Transformación completada
+2026-02-09 02:31:18,601 — INFO — Carga al DW completada
+2026-02-09 02:31:18,603 — INFO — \u2705 PIPELINE FINALIZADO CON ÉXITO
+2026-02-09 02:31:51,469 — INFO — \U0001f680 Iniciando pipeline Airbnb
+2026-02-09 02:31:51,485 — INFO — Extract completado — filas: 1829
+2026-02-09 02:31:51,495 — INFO — Validación completada
+2026-02-09 02:31:51,522 — INFO — Transformación completada
+2026-02-09 02:31:51,870 — INFO — Carga al DW completada
+2026-02-09 02:31:51,870 — INFO — \u2705 PIPELINE FINALIZADO CON ÉXITO

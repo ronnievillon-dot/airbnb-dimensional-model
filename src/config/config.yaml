@@ -1,0 +1,10 @@
+data_source:
+  listings_path: "data/listings.csv"
+  reviews_path: "data/reviews.csv"
+
+validation:
+  max_price: 10000
+  min_price: 10
+
+warehouse:
+  schema: "dw"
